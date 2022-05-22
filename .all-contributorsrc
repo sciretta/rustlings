@@ -1128,6 +1128,96 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "stevenfukase",
+      "name": "stevenfukase",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66785624?v=4",
+      "profile": "https://github.com/stevenfukase",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "J-S-Kim",
+      "name": "J-S-Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17569303?v=4",
+      "profile": "https://github.com/J-S-Kim",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Fointard",
+      "name": "Fointard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9333398?v=4",
+      "profile": "https://github.com/Fointard",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "rytheo",
+      "name": "Ryan Lowe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22184325?v=4",
+      "profile": "https://github.com/rytheo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cuishuang",
+      "name": "cui fliter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15921519?v=4",
+      "profile": "http://www.dashen.tech",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "luskwater",
+      "name": "Ron Lusk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42529?v=4",
+      "profile": "https://github.com/luskwater",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "liby",
+      "name": "Bryan Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38807139?v=4",
+      "profile": "http://liby.github.io/liby/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nandajavarma",
+      "name": "Nandaja Varma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2624550?v=4",
+      "profile": "http://nandaja.space",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "merelymyself",
+      "name": "pwygab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88221256?v=4",
+      "profile": "https://github.com/merelymyself",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lucasgrvarela",
+      "name": "Lucas Grigolon Varela",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37870368?v=4",
+      "profile": "http://linkedin.com/in/lucasgrvarela",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
